@@ -8,3 +8,4 @@ Since TensorFlow updated itself to 2.0.0-rc1 and if you look to all the availabl
 TensorFlow 2.0.0 now also is available for Google Colab, which means TPU support! 
 My Jupyter Notebook/Google Colab is here: https://colab.research.google.com/drive/1k4NJ-WV4FvpaW1Lxny-MTTDYy4p3GkYq
 I'm testing the newest correct AIs on there, so stay tuned!
+Google has maximum output limits, very bad for my kind of work, will continue doing complex AIs on my laptop and upload once finished, poorly no work in progress will be visible by that then!
