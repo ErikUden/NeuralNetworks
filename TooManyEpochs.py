@@ -9,7 +9,7 @@ model = keras.Sequential([
 	keras.layers.Dense(128, activation="relu"),
 	keras.layers.Dense(10, activation="softmax")])
 model.compile(optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"])
-model.fit(train_images, train_labels, epochs=10)
+model.fit(train_images, train_labels, epochs=100000000000000000000)
 prediction = model.predict(test_images)
 for i in range(5):
 	plt.grid(False)
