@@ -13,3 +13,7 @@ Google has maximum output limits, very bad for my kind of work, will continue do
 
 For MiniConda, Anaconda or Conda users in general, remember to use Ana-/Mini-/Conda Prompt instead of regular Command Prompt! Except if you use Git Bash, then just continue using that. 
 Should work on every operating system with TensorFlow(Keras), numpy and DockerToolbox installed, also remember to activate virtualization!
+
+
+
+
